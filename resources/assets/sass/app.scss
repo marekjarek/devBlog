@@ -15,3 +15,9 @@
 //Bulma Vue modules
 
 @import "node_modules/buefy/src/scss/buefy";
+
+//Custom Sass pages
+
+@import "overrides";
+@import "helpers";
+@import "styles";
